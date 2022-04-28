@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/payeg.git/static/css/main.a340a68d.chunk.css",
+    "main.js": "/payeg.git/static/js/main.6103b283.chunk.js",
+    "main.js.map": "/payeg.git/static/js/main.6103b283.chunk.js.map",
+    "runtime-main.js": "/payeg.git/static/js/runtime-main.a108919e.js",
+    "runtime-main.js.map": "/payeg.git/static/js/runtime-main.a108919e.js.map",
+    "static/js/2.fac737eb.chunk.js": "/payeg.git/static/js/2.fac737eb.chunk.js",
+    "static/js/2.fac737eb.chunk.js.map": "/payeg.git/static/js/2.fac737eb.chunk.js.map",
+    "index.html": "/payeg.git/index.html",
+    "static/css/main.a340a68d.chunk.css.map": "/payeg.git/static/css/main.a340a68d.chunk.css.map",
+    "static/js/2.fac737eb.chunk.js.LICENSE.txt": "/payeg.git/static/js/2.fac737eb.chunk.js.LICENSE.txt",
+    "static/media/CIB.a6612a39.png": "/payeg.git/static/media/CIB.a6612a39.png",
+    "static/media/QNB.ede1ed84.png": "/payeg.git/static/media/QNB.ede1ed84.png",
+    "static/media/app.css": "/payeg.git/static/media/aaaa.7f5a34f4.png",
+    "static/media/egypt.b2243e13.png": "/payeg.git/static/media/egypt.b2243e13.png",
+    "static/media/elahly.f8ce8e8f.png": "/payeg.git/static/media/elahly.f8ce8e8f.png",
+    "static/media/image-4.88a1ee80.png": "/payeg.git/static/media/image-4.88a1ee80.png",
+    "static/media/imgss.e084fe44.png": "/payeg.git/static/media/imgss.e084fe44.png",
+    "static/media/immms.634619cb.png": "/payeg.git/static/media/immms.634619cb.png",
+    "static/media/logo.459be828.jpg": "/payeg.git/static/media/logo.459be828.jpg",
+    "static/media/world-map.6c7516ae.jfif": "/payeg.git/static/media/world-map.6c7516ae.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a108919e.js",
+    "static/js/2.fac737eb.chunk.js",
+    "static/css/main.a340a68d.chunk.css",
+    "static/js/main.6103b283.chunk.js"
+  ]
+}
